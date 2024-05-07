@@ -1,1154 +1,1153 @@
 {
-   
-        "11": {
-            "title": "Casa en Renta en Valle Real",
-            "price": "$ 80,000 MXN",
-            "Recámaras": "4",
-            "Baños": "6",
-            "construidos": "620 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-35bb88643fa1-328d-e6ae8571-945a-5018",
-            "longitude": "-103.440969",
-            "latitude": "20.7273327",
-            "realEstateType": "for-rent"
-        },
-        "21": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-4a1b286f5f01-75cc-f51f7278-9ce5-4899",
-            "longitude": "-105.2442321",
-            "latitude": "20.6937484",
-            "realEstateType": "for-rent"
-        },
-        "31": {
-            "title": "Casa en Renta en Paraísos Del Colli",
-            "price": "$ 40,000 MXN",
-            "Recámaras": "4",
-            "Baños": "5",
-            "construidos": "159 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f1e57a7d582f-81b4-18ef93f-a9f8-7231",
-            "longitude": "-103.452159",
-            "latitude": "20.645273",
-            "realEstateType": "for-rent"
-        },
-        "41": {
-            "title": "Casa en Renta en Diaz Ordaz",
-            "price": "$ 56,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "construidos": "240 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e590aa123510-2c23-ec9ed6f9-b2a4-1fdb",
-            "longitude": "-105.2305391",
-            "latitude": "20.6414516",
-            "realEstateType": "for-rent"
-        },
-        "51": {
-            "title": "Casa en Renta en San Sebastián El Grande",
-            "price": "$ 61,945 MXN",
-            "construidos": "576 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f9166bea5f9b-5079-1cc69ff6-a80c-3e28",
-            "longitude": "-103.425169",
-            "latitude": "20.534046",
-            "realEstateType": "for-rent"
-        },
-        "61": {
-            "title": "Casa en Renta en Paseo de Las Aves",
-            "price": "$ 115,000 MXN",
-            "construidos": "1,150 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-141262d3d8d9-7b27-1510fce-b1bf-3062",
-            "longitude": "-103.423002",
-            "latitude": "20.518888",
-            "realEstateType": "for-rent"
-        },
-        "71": {
-            "title": "Casa en Renta en La Loma",
-            "price": "$ 30,000 MXN",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-fd52ab1369ab-2e05-d43ab79f-ba3a-3383",
-            "longitude": "-102.781759",
-            "latitude": "20.791737",
-            "realEstateType": "for-rent"
-        },
-        "81": {
-            "title": "Casa en Renta en Los Gavilanes",
-            "price": "$ 37,500 MXN",
-            "Recámaras": "5",
-            "Baños": "5",
-            "construidos": "420 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-29a8300d4b5b-497-91617845-991c-4bff",
-            "longitude": "-103.4510254",
-            "latitude": "20.5682836",
-            "realEstateType": "for-rent"
-        },
-        "91": {
-            "title": "Casa en Renta en Bugambilias",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "4",
-            "Baños": "2",
-            "construidos": "234 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e69c1448d27e-f37c-6b6b7fa5-8f20-4188",
-            "longitude": "-103.4469054",
-            "latitude": "20.6024902",
-            "realEstateType": "for-rent"
-        },
-        "101": {
-            "title": "Casa en Renta en La Duraznera",
-            "price": "$ 30,000 MXN",
-            "construidos": "445 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6932ca3954db-6559-21e5296c-bf86-3b0e",
-            "longitude": "-103.320566",
-            "latitude": "20.593358",
-            "realEstateType": "for-rent"
-        },
-        "111": {
-            "title": "Casa en Renta en Valle Imperial",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "240 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5c2aa3d563fb-b85d-c119280-ac63-4919",
-            "longitude": "-103.4434574",
-            "latitude": "20.7716337",
-            "realEstateType": "for-rent"
-        },
-        "121": {
-            "title": "Casa en Renta en Bosques de San Isidro",
-            "price": "$ 60,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "400 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-d8f1e0c82ec8-f93e-3487bba8-aa61-4219",
-            "longitude": "-103.37709754",
-            "latitude": "20.77568522",
-            "realEstateType": "for-rent"
-        },
-        "131": {
-            "title": "Casa en Renta en Bosques de San Isidro",
-            "price": "$ 45,000 MXN",
-            "Recámaras": "3",
-            "construidos": "550 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-32e5b25b14b2-5e66-7a9d771d-80ff-3122",
-            "longitude": "-103.360937",
-            "latitude": "20.78143",
-            "realEstateType": "for-rent"
-        },
-        "141": {
-            "title": "Casa en Renta en San Agustin",
-            "price": "$ 13,900 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "105 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-eeb86162df7d-a83d-18f3497-8ee0-7bd3",
-            "longitude": "-103.457468",
-            "latitude": "20.540872",
-            "realEstateType": "for-rent"
-        },
-        "151": {
-            "title": "Casa en Renta en Valle Imperial",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "176 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-39d508334b90-878e-3a801639-98e0-1237",
-            "longitude": "-103.4318986",
-            "latitude": "20.7818407",
-            "realEstateType": "for-rent"
-        },
-        "161": {
-            "title": "Casa en Renta en La Normal",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "114 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7c7bd6a01ecd-bc52-18f0921-967e-7359",
-            "longitude": "-103.352144",
-            "latitude": "20.698206",
-            "realEstateType": "for-rent"
-        },
-        "171": {
-            "title": "Casa en Condominio en Renta en Chulavista",
-            "price": "$ 23,500 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "200 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-48a023d8ba02-2689-398e20c-a2d9-4114",
-            "longitude": "-103.2435913",
-            "latitude": "20.3041572",
-            "realEstateType": "for-rent"
-        },
-        "181": {
-            "title": "Casa en Renta en Parques de Tesistán",
-            "price": "$ 588,000 MXN",
-            "construidos": "6,647 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-c28a358a4372-1c87-2d5fa19f-badd-39a3",
-            "longitude": "-103.482799",
-            "latitude": "20.801374",
-            "realEstateType": "for-rent"
-        },
-        "191": {
-            "title": "Casa en Fraccionamiento en Renta en San Agustin",
-            "price": "$ 11,800 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "96 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-20d313b87d20-ec46-42e9cc1c-a7ef-4a36",
-            "longitude": "-103.4577707",
-            "latitude": "20.5390426",
-            "realEstateType": "for-rent"
-        },
-        "201": {
-            "title": "Casa en Renta en Jardines Del Bosque",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "3",
-            "Baños": "4",
-            "construidos": "376 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7577d7b595ea-71d7-93c305fa-a0e6-4ac4",
-            "longitude": "-103.3809124",
-            "latitude": "20.6647472",
-            "realEstateType": "for-rent"
-        },
-        "211": {
-            "title": "Casa en Renta en Jardines de Plaza Del Sol",
-            "price": "$ 9,950 MXN",
-            "construidos": "28 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-c7ab156e4b70-76f8-6b073a0c-83e8-32d2",
-            "longitude": "-103.395337",
-            "latitude": "20.653788",
-            "realEstateType": "for-rent"
-        },
-        "221": {
-            "title": "Casa en Fraccionamiento en Renta en San Agustin",
-            "price": "$ 18,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-d72e63f80a28-fa8c-fb79a589-9283-1fdd",
-            "longitude": "-103.47047101290283",
-            "latitude": "20.55013903113717",
-            "realEstateType": "for-rent"
-        },
-        "231": {
-            "title": "Casa en Renta en Tlaquepaque Centro",
-            "price": "$ 12,900 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6f01d3420c63-e50e-b59e2689-8efb-1f99",
-            "longitude": "-103.3594312",
-            "latitude": "20.5881501",
-            "realEstateType": "for-rent"
-        },
-        "241": {
-            "title": "Casa en Renta en Tlaquepaque Centro",
-            "price": "$ 13,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6f01d3420c63-e507-9e74e819-8efb-1f99",
-            "longitude": "-103.3594312",
-            "latitude": "20.5881501",
-            "realEstateType": "for-rent"
-        },
-        "251": {
-            "title": "Casa en Renta en Vallarta Poniente",
-            "price": "$ 79,000 MXN",
-            "Recámaras": "5",
-            "Baños": "6",
-            "construidos": "801 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-190a5dad3aaf-9630-ccce3f64-a167-436c",
-            "longitude": "-103.3905135",
-            "latitude": "20.6720892",
-            "realEstateType": "for-rent"
-        },
-        "261": {
-            "title": "Casa en Renta en Parques las Palmas",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "150 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5d9299b457d9-b3cb-ae8f9e4a-825c-46ca",
-            "longitude": "-105.232103",
-            "latitude": "20.6921191",
-            "realEstateType": "for-rent"
-        },
-        "271": {
-            "title": "Casa en Renta en Parques las Palmas",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "150 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-79590c162ffc-45ab-bc852769-80f9-432a",
-            "longitude": "-105.232103",
-            "latitude": "20.6921191",
-            "realEstateType": "for-rent"
-        },
-        "281": {
-            "title": "Casa en Condominio en Renta en Parques las Palmas",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "1 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-afd2ba5c8339-cfc-5b72232a-9d53-32ef",
-            "longitude": "-105.2320633",
-            "latitude": "20.6920618",
-            "realEstateType": "for-rent"
-        },
-        "291": {
-            "title": "Casa en Fraccionamiento en Renta en San Agustin",
-            "price": "$ 22,500 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "160 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-a6ecf460d6ea-3144-330e94e4-a83f-3c89",
-            "longitude": "-103.45709",
-            "latitude": "20.55129",
-            "realEstateType": "for-rent"
-        },
-        "01": {
-            "title": "Casa en Fraccionamiento en Renta en Nuevo México",
-            "price": "$ 29,999 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "120 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-52aae7d27f58-a0a-1ad4c989-a971-4b22",
-            "longitude": "-103.4401368",
-            "latitude": "20.7582049",
-            "realEstateType": "for-rent"
-        },
-   
-        "11": {
-            "title": "Casa en Renta en Parques las Palmas",
-            "price": "$ 28,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "166 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f58449290a57-73e8-98dea95f-92d6-427b",
-            "longitude": "-105.2309649",
-            "latitude": "20.6901925",
-            "realEstateType": "for-rent"
-        },
-        "21": {
-            "title": "Casa en Renta en Jardines de Vallarta",
-            "price": "$ 28,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "100 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-2ff3cb0a3278-b9f4-3b4d0565-9a54-4b8a",
-            "longitude": "-105.2203037",
-            "latitude": "20.6382215",
-            "realEstateType": "for-rent"
-        },
-        "31": {
-            "title": "Casa en Renta en Zapopan Centro",
-            "price": "$ 21,500 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-284077067c7b-7b2b-e68c86c4-bb36-498d",
-            "longitude": "-103.42244516",
-            "latitude": "20.77898723",
-            "realEstateType": "for-rent"
-        },
-        "41": {
-            "title": "Casa en Renta en San Martin de las Flores de Abajo",
-            "price": "$ 449,883 MXN",
-            "construidos": "5,355 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-72ee2f7cf90b-273d-da19332b-945e-31e1",
-            "longitude": "-103.28572",
-            "latitude": "20.59683",
-            "realEstateType": "for-rent"
-        },
-        "51": {
-            "title": "Casa en Renta en La Venta Del Astillero",
-            "price": "USD 79,733",
-            "construidos": "13,071 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-265e613a0f0c-91d6-96cb0b1d-824b-397c",
-            "longitude": "-103.546219",
-            "latitude": "20.72564",
-            "realEstateType": "for-rent"
-        },
-        "61": {
-            "title": "Casa en Renta en San Jose Del Castillo",
-            "price": "$ 5,067,927 MXN",
-            "construidos": "42,948 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-72f7b425791f-133e-e0d2ad18-828a-305b",
-            "longitude": "-103.236232",
-            "latitude": "20.510899",
-            "realEstateType": "for-rent"
-        },
-        "71": {
-            "title": "Casa en Renta en Vallarta 500",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6b1d68636f2e-f3de-623dd7a7-9738-462c",
-            "longitude": "-105.2282331",
-            "latitude": "20.655111",
-            "realEstateType": "for-rent"
-        },
-        "81": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-d432c05b7fa-cbb5-bd52f5a-b2e7-4237",
-            "longitude": "-105.2442321",
-            "latitude": "20.6937484",
-            "realEstateType": "for-rent"
-        },
-        "91": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7727663f4a2b-9d9f-e917a145-b5e3-4b8b",
-            "longitude": "-105.2442321",
-            "latitude": "20.6937484",
-            "realEstateType": "for-rent"
-        },
-        "101": {
-            "title": "Casa en Renta en Ciudad Del Sol",
-            "price": "$ 115,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "390 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-358547699567-93f8-f4dd71e6-9cb4-31f0",
-            "longitude": "-103.409028",
-            "latitude": "20.654189",
-            "realEstateType": "for-rent"
-        },
-        "111": {
-            "title": "Casa en Renta en Ciudad Del Sol",
-            "price": "$ 70,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "390 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-97be152821f4-cf62-182a4b42-902d-3a92",
-            "longitude": "-103.407011",
-            "latitude": "20.654189",
-            "realEstateType": "for-rent"
-        },
-        "121": {
-            "title": "Casa en Renta en Solares",
-            "price": "$ 36,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "230 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6d518ab44279-8ec3-a1276196-99fe-31ee",
-            "longitude": "-103.465569",
-            "latitude": "20.729972",
-            "realEstateType": "for-rent"
-        },
-        "131": {
-            "title": "Casa en Condominio en Renta en Solares",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "4",
-            "Baños": "5",
-            "construidos": "245 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-b93ee28449d1-146d-a8191045-82bc-486e",
-            "longitude": "-103.46848931",
-            "latitude": "20.72763711",
-            "realEstateType": "for-rent"
-        },
-        "141": {
-            "title": "Casa en Renta en La Nogalera",
-            "price": "$ 641,273 MXN",
-            "construidos": "4,750 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-1ca1fba2b735-4267-b365e9c7-a436-30a7",
-            "longitude": "-103.340964",
-            "latitude": "20.634784",
-            "realEstateType": "for-rent"
-        },
-        "151": {
-            "title": "Casa en Renta en San Jose Del Castillo",
-            "price": "$ 1,150,000 MXN",
-            "construidos": "10,000 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-81b5aa003e13-73cf-519b5cc2-b52f-3d0c",
-            "longitude": "-103.237501",
-            "latitude": "20.5096",
-            "realEstateType": "for-rent"
-        },
-        "161": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 88,000 MXN",
-            "construidos": "880 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-1baa97eb264c-514f-feedfd5f-99c3-3108",
-            "longitude": "-105.251899",
-            "latitude": "20.686553",
-            "realEstateType": "for-rent"
-        },
-        "171": {
-            "title": "Casa en Renta en Guadalupe Victoria",
-            "price": "$ 160,000 MXN",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-c59268060d7d-fc13-18f3725-a8f2-74a6"
-        },
-        "181": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 100,000 MXN",
-            "construidos": "1,000 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-6b19c84b23a0-2ede-a2c77d55-b0c3-38a7"
-        },
-        "191": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 50,000 MXN",
-            "construidos": "500 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-596f68e46843-186e-2160e2cd-836e-3c47",
-            "longitude": "-105.250671",
-            "latitude": "20.687947",
-            "realEstateType": "for-rent"
-        },
-        "201": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 415,000 MXN",
-            "construidos": "3,196 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-4e0d6852b382-e717-18f3725-859f-7e30",
-            "longitude": "-105.250671",
-            "latitude": "20.687947",
-            "realEstateType": "for-rent"
-        },
-        "211": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 150,000 MXN",
-            "construidos": "1,500 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-850b81396623-ebb-df88222b-80b0-3356",
-            "longitude": "-105.250671",
-            "latitude": "20.687947",
-            "realEstateType": "for-rent"
-        },
-        "221": {
-            "title": "Casa en Renta en Loma Bonita Sur",
-            "price": "$ 90,000 MXN",
-            "Recámaras": "10",
-            "Baños": "7",
-            "construidos": "660 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5250c4d9e4de-f7dc-87b2929f-b8bf-3dbb"
-        },
-        "231": {
-            "title": "Casa en Renta en Jardines de Guadalupe",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "3",
-            "Baños": "4",
-            "construidos": "433 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-92ba1f40b191-6e3a-dd4f009f-9b3a-3698",
-            "longitude": "-103.423724",
-            "latitude": "20.664087",
-            "realEstateType": "for-rent"
-        },
-        "241": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 108,000 MXN",
-            "construidos": "1,200 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-d9d925a104d4-e5ee-b036f7f5-ac62-30af",
-            "longitude": "-105.231256",
-            "latitude": "20.701688",
-            "realEstateType": "for-rent"
-        },
-        "251": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 66,600 MXN",
-            "construidos": "740 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f2cef6bfde43-df83-18f3725-aa74-740e",
-            "longitude": "-105.231256",
-            "latitude": "20.701688",
-            "realEstateType": "for-rent"
-        },
-        "261": {
-            "title": "Casa en Renta en El Canton",
-            "price": "$ 45,200 MXN",
-            "construidos": "565 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-1a10a1af8579-92d9-7d26e70b-a961-3747"
-        },
-        "271": {
-            "title": "Casa en Renta en El Fortín",
-            "price": "$ 15,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "156 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-1d73a189bca8-a295-f565e45c-86ec-4482",
-            "longitude": "-103.4823884",
-            "latitude": "20.6327157",
-            "realEstateType": "for-rent"
-        },
-        "281": {
-            "title": "Casa en Renta en El Salto Centro",
-            "price": "$ 85,000 MXN",
-            "construidos": "895 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-12dd1e0e383c-7df8-5251798d-9046-3061",
-            "longitude": "-103.182076",
-            "latitude": "20.513349",
-            "realEstateType": "for-rent"
-        },
-        "291": {
-            "title": "Casa en Renta en Puerta de Hierro",
-            "price": "$ 55,000 MXN",
-            "Recámaras": "4",
-            "Baños": "5",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-2bb6a4094205-eb6e-c0311da2-a39c-3ab5",
-            "longitude": "-103.41939",
-            "latitude": "20.71553",
-            "realEstateType": "for-rent"
-        },
-        "01": {
-            "title": "Casa en Condominio en Renta en Lagos de Moreno Centro",
-            "price": "$ 11,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "100 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-97c7db6b9039-cf48-d2074ee9-bc89-1f44"
-        },
-   
-        "11": {
-            "title": "Casa en Renta en La Cantera",
-            "price": "$ 203,000 MXN",
-            "construidos": "1,394 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-8e2d1cb0264c-9979-10019a58-908a-3f44"
-        },
-        "21": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "$ 21,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "120 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-378154763f58-2552-a4664235-9b17-41b0"
-        },
-        "31": {
-            "title": "Casa en Renta en Residencial Fluvial Vallarta",
-            "price": "$ 65,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "320 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-2142e51ed675-9361-f092629-bb88-1237"
-        },
-        "41": {
-            "title": "Casa en Fraccionamiento en Renta en Tlajomulco de Zuñiga",
-            "price": "$ 14,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "180 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-aad707946ebc-fe6c-b981dbef-aa1c-387d",
-            "longitude": "-103.4930893",
-            "latitude": "20.5155718",
-            "realEstateType": "for-rent"
-        },
-        "51": {
-            "title": "Casa en Renta en Bosques de Santa Anita",
-            "price": "$ 17,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "160 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-1a9420d124ba-afab-18f063d-ba7c-77e3",
-            "longitude": "-103.469628",
-            "latitude": "20.558838",
-            "realEstateType": "for-rent"
-        },
-        "61": {
-            "title": "Casa en Renta en San Jose Del Tajo",
-            "price": "$ 35,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "350 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-339e895758c7-4cb1-4e72e591-8ad6-46f5",
-            "longitude": "-103.4506884",
-            "latitude": "20.5855684",
-            "realEstateType": "for-rent"
-        },
-        "71": {
-            "title": "Casa en Renta en Las Moras",
-            "price": "$ 28,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "130 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-477ca6e9624e-e5aa-d5438b69-9c71-1fc5",
-            "longitude": "-105.23040991",
-            "latitude": "20.6578484",
-            "realEstateType": "for-rent"
-        },
-        "81": {
-            "title": "Casa en Renta en Bugambilias",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "153 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-ec6a5bafdd91-cb0c-5df6daf2-acc6-4f5a",
-            "longitude": "-103.4455662",
-            "latitude": "20.6122169",
-            "realEstateType": "for-rent"
-        },
-        "91": {
-            "title": "Casa en Renta en Arcos Vallarta",
-            "price": "$ 40,000 MXN",
-            "Recámaras": "8",
-            "Baños": "3",
-            "construidos": "300 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-ead8f3274814-308-6c7d2985-ac96-4531",
-            "longitude": "-103.3858754",
-            "latitude": "20.6734217",
-            "realEstateType": "for-rent"
-        },
-        "101": {
-            "title": "Casa en Renta en Hacienda del Oro",
-            "price": "$ 29,500 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "365 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5d406f1385e1-10027-2708b9eb-98cd-3290",
-            "longitude": "-103.459125",
-            "latitude": "20.551085",
-            "realEstateType": "for-rent"
-        },
-        "111": {
-            "title": "Casa en Renta en Eucalipto Vallarta",
-            "price": "$ 52,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "construidos": "375 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-180e66421281-97ea-9e857cd3-b2ef-3c1c"
-        },
-        "121": {
-            "title": "Casa en Renta en Las Moras",
-            "price": "$ 35,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-45788370c000-3d33-aa7bbb9-9549-4f52",
-            "longitude": "-105.2295757",
-            "latitude": "20.6589533",
-            "realEstateType": "for-rent"
-        },
-        "131": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "USD 600",
-            "Recámara": "1",
-            "Baño": "1",
-            "construidos": "75 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-4619654e4a15-a319-bbf506b6-b8ff-3f1d",
-            "longitude": "-103.236727",
-            "latitude": "20.296905",
-            "realEstateType": "for-rent"
-        },
-        "141": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 45,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "350 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-369cb9065d21-4a95-b8838eda-9482-3ee8"
-        },
-        "151": {
-            "title": "Casa en Renta en Residencial Fluvial Vallarta",
-            "price": "$ 35,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "140 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-90b8899a559-e9df-2b39e925-9b62-4a4d",
-            "longitude": "-105.2280349",
-            "latitude": "20.6516151",
-            "realEstateType": "for-rent"
-        },
-        "161": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 27,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "194 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-8c3d95ec9fe2-8bcd-ea40414a-9bde-3a9a",
-            "longitude": "-103.2848",
-            "latitude": "20.296792",
-            "realEstateType": "for-rent"
-        },
-        "171": {
-            "title": "Casa en Renta en San Antonio Tlayacapan",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "197 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-3d8748f7a0a1-3a7-f97a3b19-9304-3e8f",
-            "longitude": "-103.233933",
-            "latitude": "20.295529",
-            "realEstateType": "for-rent"
-        },
-        "181": {
-            "title": "Casa en Renta en Chapala Haciendas",
-            "price": "$ 27,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "277 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e87106f9110a-ef17-18f08da-8065-7697",
-            "longitude": "-103.193118",
-            "latitude": "20.325575",
-            "realEstateType": "for-rent"
-        },
-        "191": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 26,500 MXN",
-            "Recámaras": "2",
-            "Baño": "1",
-            "construidos": "450 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-a47176a16ee5-5734-b3d86871-9cc7-3afe",
-            "longitude": "-103.288259",
-            "latitude": "20.297491",
-            "realEstateType": "for-rent"
-        },
-        "201": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 28,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7f8e29300303-61b3-b913a3d3-8bb0-3ad6",
-            "longitude": "-103.246726",
-            "latitude": "20.29619",
-            "realEstateType": "for-rent"
-        },
-        "211": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-9b4a9d3d9eb7-55ac-f2c09a16-bb18-3e66",
-            "longitude": "-103.256676",
-            "latitude": "20.296822",
-            "realEstateType": "for-rent"
-        },
-        "221": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 24,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f5438a83f580-85cd-92dccbff-a14c-3fd3",
-            "longitude": "-103.239636",
-            "latitude": "20.292092",
-            "realEstateType": "for-rent"
-        },
-        "231": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 12,500 MXN",
-            "Recámara": "1",
-            "Baño": "1",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-942a5ac94575-32ac-44dfc3c1-83b0-353a",
-            "longitude": "-103.265831",
-            "latitude": "20.302653",
-            "realEstateType": "for-rent"
-        },
-        "241": {
-            "title": "Casa en Renta en Los Colomos",
-            "price": "$ 50,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "420 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-477cb759bc4c-c332-36fcd3c7-838b-4d7b"
-        },
-        "251": {
-            "title": "Casa en Renta en Camino Real de Colima",
-            "price": "$ 18,000 MXN",
-            "Recámaras": "3",
-            "Baños": "4",
-            "construidos": "315 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e11247a5951-7929-cbafe7cb-8ba7-4e53",
-            "longitude": "-103.4547669",
-            "latitude": "20.5538677",
-            "realEstateType": "for-rent"
-        },
-        "261": {
-            "title": "Casa en Renta en Gaviotas",
-            "price": "$ 50,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "construidos": "280 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-159e8a79b95d-5198-67d9174b-99c2-48d5",
-            "longitude": "-105.2212749",
-            "latitude": "20.6360482",
-            "realEstateType": "for-rent"
-        },
-        "271": {
-            "title": "Casa en Renta en De las Juntas Delegación",
-            "price": "Consultar precios",
-            "Recámaras": "3",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-77f70fa767c4-92f5-29526619-9e85-1f54"
-        },
-        "281": {
-            "title": "Casa en Condominio en Renta en Residencial Fluvial Vallarta",
-            "price": "$ 55,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-b5810326792e-645a-9a28ef89-a359-1f64"
-        },
-        "291": {
-            "title": "Casa en Renta en Circunvalación Américas",
-            "price": "$ 58,000 MXN",
-            "Recámaras": "5",
-            "Baños": "4",
-            "construidos": "400 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-730fdc19d3f4-1350-a615c454-ad42-3ab7"
-        },
-        "01": {
-            "title": "Casa en Renta en Ladrón de Guevara",
-            "price": "$ 130,000 MXN",
-            "construidos": "1,000 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5238551c1008-c53e-18f4678-bf96-7bea"
-        },
-        "11": {
-            "title": "Casa en Renta en Santa Anita",
-            "price": "$ 12,500 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "127 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-147bd132ceb2-1aff-6807fe73-9162-4fd5"
-        },
-        "21": {
-            "title": "Casa en Condominio en Renta en De las Juntas Delegación",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "122 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e7691671559a-915f-e843ad01-8230-42bc"
-        },
-        "31": {
-            "title": "Casa en Condominio en Renta en De las Juntas Delegación",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "152 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-70c165db2efc-e92d-d8ae88d6-874f-4d46",
-            "longitude": "-105.244778",
-            "latitude": "20.694751",
-            "realEstateType": "for-rent"
-        },
-        "41": {
-            "title": "Casa en Fraccionamiento en Renta en Parques las Palmas",
-            "price": "$ 21,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "130 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-5b9338152cce-d387-7072f9a2-90c5-4e28",
-            "longitude": "-105.2307614",
-            "latitude": "20.6895909",
-            "realEstateType": "for-rent"
-        },
-        "51": {
-            "title": "Casa en Condominio en Renta en Zapopan Centro",
-            "price": "$ 21,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "construidos": "186 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-37ddb3902687-e07b-865affad-a12f-4913",
-            "longitude": "-103.414298",
-            "latitude": "20.7887597",
-            "realEstateType": "for-rent"
-        },
-        "61": {
-            "title": "Casa en Renta en Hacienda del Oro",
-            "price": "$ 29,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "375 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-fdb85a3dfe39-aca-7d1ff327-9e44-33bc"
-        },
-        "71": {
-            "title": "Casa en Renta en San Agustin",
-            "price": "$ 24,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "construidos": "220 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-eace187aabea-eac4-f07f2200-b3cc-3a6e",
-            "longitude": "-103.4679791",
-            "latitude": "20.5610444",
-            "realEstateType": "for-rent"
-        },
-        "81": {
-            "title": "Casa en Fraccionamiento en Renta en Jardines Vallarta",
-            "price": "$ 39,700 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "construidos": "212 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f6462f6b2595-d1bc-c1901b34-9c6b-4369",
-            "longitude": "-103.4186722",
-            "latitude": "20.6802116",
-            "realEstateType": "for-rent"
-        },
-        "91": {
-            "title": "Casa en Renta en Ajijic Centro",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "2",
-            "Baños": "2",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-a42cf84cafb3-19ba-986777b2-9db7-47e3"
-        },
-        "101": {
-            "title": "Casa en Renta en Virreyes Residencial",
-            "price": "$ 45,000 MXN",
-            "Recámaras": "3",
-            "Baños": "5",
-            "construidos": "345 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-b3b17c3a4362-f05a-18f416c-9b83-79e0",
-            "longitude": "-103.445277",
-            "latitude": "20.702029",
-            "realEstateType": "for-rent"
-        },
-        "111": {
-            "title": "Casa en Renta en Solares",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "236 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-9ec5884b0f3c-f97-26315a9b-9ddf-4b2f"
-        },
-        "121": {
-            "title": "Casa en Renta en Villas Rio",
-            "price": "$ 31,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-585e8ca43773-4c9b-5110e467-b3d3-4b45"
-        },
-        "131": {
-            "title": "Casa en Fraccionamiento en Renta en Residencial Fluvial Vallarta",
-            "price": "$ 31,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-a2833443be8f-865f-b15c49fd-9b73-4e70",
-            "longitude": "-105.2267944",
-            "latitude": "20.6460186",
-            "realEstateType": "for-rent"
-        },
-        "141": {
-            "title": "Casa en Renta en Villas Rio",
-            "price": "$ 31,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-c40158f53858-1c65-7c9f393b-ade7-48b0",
-            "longitude": "-105.2237039",
-            "latitude": "20.6506282",
-            "realEstateType": "for-rent"
-        },
-        "151": {
-            "title": "Casa en Renta en Ciudad Del Sol",
-            "price": "$ 50,000 MXN",
-            "Recámaras": "5",
-            "Baños": "5",
-            "construidos": "567 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-bf73817646bf-bd46-bebeef6c-bb54-4997",
-            "longitude": "-103.4024392",
-            "latitude": "20.6582119",
-            "realEstateType": "for-rent"
-        },
-        "161": {
-            "title": "Casa en Fraccionamiento en Renta en Residencial Fluvial Vallarta",
-            "price": "$ 31,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e8c18315292e-14fb-dc73099a-aa15-4fae"
-        },
-        "171": {
-            "title": "Casa en Fraccionamiento en Renta en Jardines de Vallarta",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-156aab10cb48-5b7c-78b14574-876a-4990"
-        },
-        "181": {
-            "title": "Casa en Fraccionamiento en Renta en Gaviotas",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "4",
-            "Baños": "3",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-a2cfb872992e-1c6-e1018728-adee-4150"
-        },
-        "191": {
-            "title": "Casa en Renta en Ciudad Granja",
-            "price": "$ 80,000 MXN",
-            "Recámaras": "12",
-            "Baños": "12",
-            "construidos": "517 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-3832ac857c5f-d554-930d7264-888b-3a42"
-        },
-        "201": {
-            "title": "Casa en Renta en Las Mojoneras",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "200 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-ef9c51634c81-dfea-56a032cf-ac32-4a79"
-        },
-        "211": {
-            "title": "Casa en Renta en San Agustin",
-            "price": "$ 25,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "180 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-df8cd4421fc7-452-b74fa729-a652-1fcc"
-        },
-        "221": {
-            "title": "Casa en Condominio en Renta en El Palomar",
-            "price": "$ 24,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "360 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f23a19ecf1b7-9826-4a8d259e-8aa5-457b"
-        },
-        "231": {
-            "title": "Casa en Renta en San Agustin",
-            "price": "$ 65,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "643 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e15a285c2fe4-ea6e-412ac869-ac58-1f2c"
-        },
-        "241": {
-            "title": "Casa en Renta en Americana",
-            "price": "$ 20,000 MXN",
-            "Recámaras": "6",
-            "Baño": "1",
-            "construidos": "210 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7bd761f2c6a8-28d3-897bfb89-bf7c-360f",
-            "longitude": "-103.362722",
-            "latitude": "20.668605",
-            "realEstateType": "for-rent"
-        },
-        "251": {
-            "title": "Casa en Condominio en Renta en De las Juntas Delegación",
-            "price": "$ 22,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "152 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-7633f8d3742b-46b4-d7e7dfd3-8c9e-3655"
-        },
-        "261": {
-            "title": "Casa en Renta en Agua Blanca Industrial",
-            "price": "$ 30,000 MXN",
-            "Recámaras": "3",
-            "Baños": "3",
-            "construidos": "320 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-f94639858416-3245-fff54c66-bd03-31e9"
-        },
-        "271": {
-            "title": "Casa en Renta en Residencial La Estancia",
-            "price": "$ 45,000 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "325 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-16088915cdf0-b7a9-18f4935-a7b5-7e2b"
-        },
-        "281": {
-            "title": "Casa en Renta en Virreyes Residencial",
-            "price": "$ 65,000 MXN",
-            "Recámaras": "3",
-            "Baños": "4",
-            "construidos": "359 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-e8dcecc1b227-170a-fa0b0f3e-abee-326d",
-            "longitude": "-103.445077",
-            "latitude": "20.7019",
-            "realEstateType": "for-rent"
-        },
-        "291": {
-            "title": "Casa en Renta en Colegio Del Aire",
-            "price": "$ 18,000 MXN",
-            "Recámaras": "3",
-            "Baños": "2",
-            "construidos": "150 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-4bfe0829faab-2b0b-18f4671-b016-75b0",
-            "longitude": "-103.445871",
-            "latitude": "20.745351",
-            "realEstateType": "for-rent"
-        },
-        "01": {
-            "title": "Casa en Fraccionamiento en Renta en Solares",
-            "price": "$ 31,500 MXN",
-            "Recámaras": "4",
-            "Baños": "4",
-            "construidos": "223 m²",
-            "url": "https://www.lamudi.com.mx/detalle/41032-73-55c47228e25c-25c2-339b3526-aa22-4fff"
-        }
-    }
+  "11": {
+    "title": "Casa en Renta en Valle Real",
+    "price": "$ 80,000 MXN",
+    "Recámaras": "4",
+    "Baños": "6",
+    "construidos": "620 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-35bb88643fa1-328d-e6ae8571-945a-5018",
+    "longitude": "-103.440969",
+    "latitude": "20.7273327",
+    "realEstateType": "for-rent"
+  },
+  "21": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-4a1b286f5f01-75cc-f51f7278-9ce5-4899",
+    "longitude": "-105.2442321",
+    "latitude": "20.6937484",
+    "realEstateType": "for-rent"
+  },
+  "31": {
+    "title": "Casa en Renta en Paraísos Del Colli",
+    "price": "$ 40,000 MXN",
+    "Recámaras": "4",
+    "Baños": "5",
+    "construidos": "159 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f1e57a7d582f-81b4-18ef93f-a9f8-7231",
+    "longitude": "-103.452159",
+    "latitude": "20.645273",
+    "realEstateType": "for-rent"
+  },
+  "41": {
+    "title": "Casa en Renta en Diaz Ordaz",
+    "price": "$ 56,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "construidos": "240 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e590aa123510-2c23-ec9ed6f9-b2a4-1fdb",
+    "longitude": "-105.2305391",
+    "latitude": "20.6414516",
+    "realEstateType": "for-rent"
+  },
+  "51": {
+    "title": "Casa en Renta en San Sebastián El Grande",
+    "price": "$ 61,945 MXN",
+    "construidos": "576 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f9166bea5f9b-5079-1cc69ff6-a80c-3e28",
+    "longitude": "-103.425169",
+    "latitude": "20.534046",
+    "realEstateType": "for-rent"
+  },
+  "61": {
+    "title": "Casa en Renta en Paseo de Las Aves",
+    "price": "$ 115,000 MXN",
+    "construidos": "1,150 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-141262d3d8d9-7b27-1510fce-b1bf-3062",
+    "longitude": "-103.423002",
+    "latitude": "20.518888",
+    "realEstateType": "for-rent"
+  },
+  "71": {
+    "title": "Casa en Renta en La Loma",
+    "price": "$ 30,000 MXN",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-fd52ab1369ab-2e05-d43ab79f-ba3a-3383",
+    "longitude": "-102.781759",
+    "latitude": "20.791737",
+    "realEstateType": "for-rent"
+  },
+  "81": {
+    "title": "Casa en Renta en Los Gavilanes",
+    "price": "$ 37,500 MXN",
+    "Recámaras": "5",
+    "Baños": "5",
+    "construidos": "420 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-29a8300d4b5b-497-91617845-991c-4bff",
+    "longitude": "-103.4510254",
+    "latitude": "20.5682836",
+    "realEstateType": "for-rent"
+  },
+  "91": {
+    "title": "Casa en Renta en Bugambilias",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "4",
+    "Baños": "2",
+    "construidos": "234 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e69c1448d27e-f37c-6b6b7fa5-8f20-4188",
+    "longitude": "-103.4469054",
+    "latitude": "20.6024902",
+    "realEstateType": "for-rent"
+  },
+  "101": {
+    "title": "Casa en Renta en La Duraznera",
+    "price": "$ 30,000 MXN",
+    "construidos": "445 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6932ca3954db-6559-21e5296c-bf86-3b0e",
+    "longitude": "-103.320566",
+    "latitude": "20.593358",
+    "realEstateType": "for-rent"
+  },
+  "111": {
+    "title": "Casa en Renta en Valle Imperial",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "240 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5c2aa3d563fb-b85d-c119280-ac63-4919",
+    "longitude": "-103.4434574",
+    "latitude": "20.7716337",
+    "realEstateType": "for-rent"
+  },
+  "121": {
+    "title": "Casa en Renta en Bosques de San Isidro",
+    "price": "$ 60,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "400 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-d8f1e0c82ec8-f93e-3487bba8-aa61-4219",
+    "longitude": "-103.37709754",
+    "latitude": "20.77568522",
+    "realEstateType": "for-rent"
+  },
+  "131": {
+    "title": "Casa en Renta en Bosques de San Isidro",
+    "price": "$ 45,000 MXN",
+    "Recámaras": "3",
+    "construidos": "550 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-32e5b25b14b2-5e66-7a9d771d-80ff-3122",
+    "longitude": "-103.360937",
+    "latitude": "20.78143",
+    "realEstateType": "for-rent"
+  },
+  "141": {
+    "title": "Casa en Renta en San Agustin",
+    "price": "$ 13,900 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "105 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-eeb86162df7d-a83d-18f3497-8ee0-7bd3",
+    "longitude": "-103.457468",
+    "latitude": "20.540872",
+    "realEstateType": "for-rent"
+  },
+  "151": {
+    "title": "Casa en Renta en Valle Imperial",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "176 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-39d508334b90-878e-3a801639-98e0-1237",
+    "longitude": "-103.4318986",
+    "latitude": "20.7818407",
+    "realEstateType": "for-rent"
+  },
+  "161": {
+    "title": "Casa en Renta en La Normal",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "114 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7c7bd6a01ecd-bc52-18f0921-967e-7359",
+    "longitude": "-103.352144",
+    "latitude": "20.698206",
+    "realEstateType": "for-rent"
+  },
+  "171": {
+    "title": "Casa en Condominio en Renta en Chulavista",
+    "price": "$ 23,500 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "200 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-48a023d8ba02-2689-398e20c-a2d9-4114",
+    "longitude": "-103.2435913",
+    "latitude": "20.3041572",
+    "realEstateType": "for-rent"
+  },
+  "181": {
+    "title": "Casa en Renta en Parques de Tesistán",
+    "price": "$ 588,000 MXN",
+    "construidos": "6,647 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-c28a358a4372-1c87-2d5fa19f-badd-39a3",
+    "longitude": "-103.482799",
+    "latitude": "20.801374",
+    "realEstateType": "for-rent"
+  },
+  "191": {
+    "title": "Casa en Fraccionamiento en Renta en San Agustin",
+    "price": "$ 11,800 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "96 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-20d313b87d20-ec46-42e9cc1c-a7ef-4a36",
+    "longitude": "-103.4577707",
+    "latitude": "20.5390426",
+    "realEstateType": "for-rent"
+  },
+  "201": {
+    "title": "Casa en Renta en Jardines Del Bosque",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "3",
+    "Baños": "4",
+    "construidos": "376 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7577d7b595ea-71d7-93c305fa-a0e6-4ac4",
+    "longitude": "-103.3809124",
+    "latitude": "20.6647472",
+    "realEstateType": "for-rent"
+  },
+  "211": {
+    "title": "Casa en Renta en Jardines de Plaza Del Sol",
+    "price": "$ 9,950 MXN",
+    "construidos": "28 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-c7ab156e4b70-76f8-6b073a0c-83e8-32d2",
+    "longitude": "-103.395337",
+    "latitude": "20.653788",
+    "realEstateType": "for-rent"
+  },
+  "221": {
+    "title": "Casa en Fraccionamiento en Renta en San Agustin",
+    "price": "$ 18,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-d72e63f80a28-fa8c-fb79a589-9283-1fdd",
+    "longitude": "-103.47047101290283",
+    "latitude": "20.55013903113717",
+    "realEstateType": "for-rent"
+  },
+  "231": {
+    "title": "Casa en Renta en Tlaquepaque Centro",
+    "price": "$ 12,900 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6f01d3420c63-e50e-b59e2689-8efb-1f99",
+    "longitude": "-103.3594312",
+    "latitude": "20.5881501",
+    "realEstateType": "for-rent"
+  },
+  "241": {
+    "title": "Casa en Renta en Tlaquepaque Centro",
+    "price": "$ 13,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6f01d3420c63-e507-9e74e819-8efb-1f99",
+    "longitude": "-103.3594312",
+    "latitude": "20.5881501",
+    "realEstateType": "for-rent"
+  },
+  "251": {
+    "title": "Casa en Renta en Vallarta Poniente",
+    "price": "$ 79,000 MXN",
+    "Recámaras": "5",
+    "Baños": "6",
+    "construidos": "801 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-190a5dad3aaf-9630-ccce3f64-a167-436c",
+    "longitude": "-103.3905135",
+    "latitude": "20.6720892",
+    "realEstateType": "for-rent"
+  },
+  "261": {
+    "title": "Casa en Renta en Parques las Palmas",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "150 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5d9299b457d9-b3cb-ae8f9e4a-825c-46ca",
+    "longitude": "-105.232103",
+    "latitude": "20.6921191",
+    "realEstateType": "for-rent"
+  },
+  "271": {
+    "title": "Casa en Renta en Parques las Palmas",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "150 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-79590c162ffc-45ab-bc852769-80f9-432a",
+    "longitude": "-105.232103",
+    "latitude": "20.6921191",
+    "realEstateType": "for-rent"
+  },
+  "281": {
+    "title": "Casa en Condominio en Renta en Parques las Palmas",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "1 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-afd2ba5c8339-cfc-5b72232a-9d53-32ef",
+    "longitude": "-105.2320633",
+    "latitude": "20.6920618",
+    "realEstateType": "for-rent"
+  },
+  "291": {
+    "title": "Casa en Fraccionamiento en Renta en San Agustin",
+    "price": "$ 22,500 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "160 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-a6ecf460d6ea-3144-330e94e4-a83f-3c89",
+    "longitude": "-103.45709",
+    "latitude": "20.55129",
+    "realEstateType": "for-rent"
+  },
+  "01": {
+    "title": "Casa en Fraccionamiento en Renta en Nuevo México",
+    "price": "$ 29,999 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "120 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-52aae7d27f58-a0a-1ad4c989-a971-4b22",
+    "longitude": "-103.4401368",
+    "latitude": "20.7582049",
+    "realEstateType": "for-rent"
+  },
+
+  "11": {
+    "title": "Casa en Renta en Parques las Palmas",
+    "price": "$ 28,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "166 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f58449290a57-73e8-98dea95f-92d6-427b",
+    "longitude": "-105.2309649",
+    "latitude": "20.6901925",
+    "realEstateType": "for-rent"
+  },
+  "21": {
+    "title": "Casa en Renta en Jardines de Vallarta",
+    "price": "$ 28,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "100 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-2ff3cb0a3278-b9f4-3b4d0565-9a54-4b8a",
+    "longitude": "-105.2203037",
+    "latitude": "20.6382215",
+    "realEstateType": "for-rent"
+  },
+  "31": {
+    "title": "Casa en Renta en Zapopan Centro",
+    "price": "$ 21,500 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-284077067c7b-7b2b-e68c86c4-bb36-498d",
+    "longitude": "-103.42244516",
+    "latitude": "20.77898723",
+    "realEstateType": "for-rent"
+  },
+  "41": {
+    "title": "Casa en Renta en San Martin de las Flores de Abajo",
+    "price": "$ 449,883 MXN",
+    "construidos": "5,355 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-72ee2f7cf90b-273d-da19332b-945e-31e1",
+    "longitude": "-103.28572",
+    "latitude": "20.59683",
+    "realEstateType": "for-rent"
+  },
+  "51": {
+    "title": "Casa en Renta en La Venta Del Astillero",
+    "price": "USD 79,733",
+    "construidos": "13,071 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-265e613a0f0c-91d6-96cb0b1d-824b-397c",
+    "longitude": "-103.546219",
+    "latitude": "20.72564",
+    "realEstateType": "for-rent"
+  },
+  "61": {
+    "title": "Casa en Renta en San Jose Del Castillo",
+    "price": "$ 5,067,927 MXN",
+    "construidos": "42,948 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-72f7b425791f-133e-e0d2ad18-828a-305b",
+    "longitude": "-103.236232",
+    "latitude": "20.510899",
+    "realEstateType": "for-rent"
+  },
+  "71": {
+    "title": "Casa en Renta en Vallarta 500",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6b1d68636f2e-f3de-623dd7a7-9738-462c",
+    "longitude": "-105.2282331",
+    "latitude": "20.655111",
+    "realEstateType": "for-rent"
+  },
+  "81": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-d432c05b7fa-cbb5-bd52f5a-b2e7-4237",
+    "longitude": "-105.2442321",
+    "latitude": "20.6937484",
+    "realEstateType": "for-rent"
+  },
+  "91": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7727663f4a2b-9d9f-e917a145-b5e3-4b8b",
+    "longitude": "-105.2442321",
+    "latitude": "20.6937484",
+    "realEstateType": "for-rent"
+  },
+  "101": {
+    "title": "Casa en Renta en Ciudad Del Sol",
+    "price": "$ 115,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "390 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-358547699567-93f8-f4dd71e6-9cb4-31f0",
+    "longitude": "-103.409028",
+    "latitude": "20.654189",
+    "realEstateType": "for-rent"
+  },
+  "111": {
+    "title": "Casa en Renta en Ciudad Del Sol",
+    "price": "$ 70,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "390 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-97be152821f4-cf62-182a4b42-902d-3a92",
+    "longitude": "-103.407011",
+    "latitude": "20.654189",
+    "realEstateType": "for-rent"
+  },
+  "121": {
+    "title": "Casa en Renta en Solares",
+    "price": "$ 36,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "230 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6d518ab44279-8ec3-a1276196-99fe-31ee",
+    "longitude": "-103.465569",
+    "latitude": "20.729972",
+    "realEstateType": "for-rent"
+  },
+  "131": {
+    "title": "Casa en Condominio en Renta en Solares",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "4",
+    "Baños": "5",
+    "construidos": "245 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-b93ee28449d1-146d-a8191045-82bc-486e",
+    "longitude": "-103.46848931",
+    "latitude": "20.72763711",
+    "realEstateType": "for-rent"
+  },
+  "141": {
+    "title": "Casa en Renta en La Nogalera",
+    "price": "$ 641,273 MXN",
+    "construidos": "4,750 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-1ca1fba2b735-4267-b365e9c7-a436-30a7",
+    "longitude": "-103.340964",
+    "latitude": "20.634784",
+    "realEstateType": "for-rent"
+  },
+  "151": {
+    "title": "Casa en Renta en San Jose Del Castillo",
+    "price": "$ 1,150,000 MXN",
+    "construidos": "10,000 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-81b5aa003e13-73cf-519b5cc2-b52f-3d0c",
+    "longitude": "-103.237501",
+    "latitude": "20.5096",
+    "realEstateType": "for-rent"
+  },
+  "161": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 88,000 MXN",
+    "construidos": "880 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-1baa97eb264c-514f-feedfd5f-99c3-3108",
+    "longitude": "-105.251899",
+    "latitude": "20.686553",
+    "realEstateType": "for-rent"
+  },
+  "171": {
+    "title": "Casa en Renta en Guadalupe Victoria",
+    "price": "$ 160,000 MXN",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-c59268060d7d-fc13-18f3725-a8f2-74a6"
+  },
+  "181": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 100,000 MXN",
+    "construidos": "1,000 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-6b19c84b23a0-2ede-a2c77d55-b0c3-38a7"
+  },
+  "191": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 50,000 MXN",
+    "construidos": "500 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-596f68e46843-186e-2160e2cd-836e-3c47",
+    "longitude": "-105.250671",
+    "latitude": "20.687947",
+    "realEstateType": "for-rent"
+  },
+  "201": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 415,000 MXN",
+    "construidos": "3,196 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-4e0d6852b382-e717-18f3725-859f-7e30",
+    "longitude": "-105.250671",
+    "latitude": "20.687947",
+    "realEstateType": "for-rent"
+  },
+  "211": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 150,000 MXN",
+    "construidos": "1,500 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-850b81396623-ebb-df88222b-80b0-3356",
+    "longitude": "-105.250671",
+    "latitude": "20.687947",
+    "realEstateType": "for-rent"
+  },
+  "221": {
+    "title": "Casa en Renta en Loma Bonita Sur",
+    "price": "$ 90,000 MXN",
+    "Recámaras": "10",
+    "Baños": "7",
+    "construidos": "660 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5250c4d9e4de-f7dc-87b2929f-b8bf-3dbb"
+  },
+  "231": {
+    "title": "Casa en Renta en Jardines de Guadalupe",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "3",
+    "Baños": "4",
+    "construidos": "433 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-92ba1f40b191-6e3a-dd4f009f-9b3a-3698",
+    "longitude": "-103.423724",
+    "latitude": "20.664087",
+    "realEstateType": "for-rent"
+  },
+  "241": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 108,000 MXN",
+    "construidos": "1,200 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-d9d925a104d4-e5ee-b036f7f5-ac62-30af",
+    "longitude": "-105.231256",
+    "latitude": "20.701688",
+    "realEstateType": "for-rent"
+  },
+  "251": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 66,600 MXN",
+    "construidos": "740 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f2cef6bfde43-df83-18f3725-aa74-740e",
+    "longitude": "-105.231256",
+    "latitude": "20.701688",
+    "realEstateType": "for-rent"
+  },
+  "261": {
+    "title": "Casa en Renta en El Canton",
+    "price": "$ 45,200 MXN",
+    "construidos": "565 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-1a10a1af8579-92d9-7d26e70b-a961-3747"
+  },
+  "271": {
+    "title": "Casa en Renta en El Fortín",
+    "price": "$ 15,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "156 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-1d73a189bca8-a295-f565e45c-86ec-4482",
+    "longitude": "-103.4823884",
+    "latitude": "20.6327157",
+    "realEstateType": "for-rent"
+  },
+  "281": {
+    "title": "Casa en Renta en El Salto Centro",
+    "price": "$ 85,000 MXN",
+    "construidos": "895 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-12dd1e0e383c-7df8-5251798d-9046-3061",
+    "longitude": "-103.182076",
+    "latitude": "20.513349",
+    "realEstateType": "for-rent"
+  },
+  "291": {
+    "title": "Casa en Renta en Puerta de Hierro",
+    "price": "$ 55,000 MXN",
+    "Recámaras": "4",
+    "Baños": "5",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-2bb6a4094205-eb6e-c0311da2-a39c-3ab5",
+    "longitude": "-103.41939",
+    "latitude": "20.71553",
+    "realEstateType": "for-rent"
+  },
+  "01": {
+    "title": "Casa en Condominio en Renta en Lagos de Moreno Centro",
+    "price": "$ 11,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "100 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-97c7db6b9039-cf48-d2074ee9-bc89-1f44"
+  },
+
+  "11": {
+    "title": "Casa en Renta en La Cantera",
+    "price": "$ 203,000 MXN",
+    "construidos": "1,394 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-8e2d1cb0264c-9979-10019a58-908a-3f44"
+  },
+  "21": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "$ 21,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "120 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-378154763f58-2552-a4664235-9b17-41b0"
+  },
+  "31": {
+    "title": "Casa en Renta en Residencial Fluvial Vallarta",
+    "price": "$ 65,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "320 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-2142e51ed675-9361-f092629-bb88-1237"
+  },
+  "41": {
+    "title": "Casa en Fraccionamiento en Renta en Tlajomulco de Zuñiga",
+    "price": "$ 14,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "180 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-aad707946ebc-fe6c-b981dbef-aa1c-387d",
+    "longitude": "-103.4930893",
+    "latitude": "20.5155718",
+    "realEstateType": "for-rent"
+  },
+  "51": {
+    "title": "Casa en Renta en Bosques de Santa Anita",
+    "price": "$ 17,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "160 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-1a9420d124ba-afab-18f063d-ba7c-77e3",
+    "longitude": "-103.469628",
+    "latitude": "20.558838",
+    "realEstateType": "for-rent"
+  },
+  "61": {
+    "title": "Casa en Renta en San Jose Del Tajo",
+    "price": "$ 35,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "350 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-339e895758c7-4cb1-4e72e591-8ad6-46f5",
+    "longitude": "-103.4506884",
+    "latitude": "20.5855684",
+    "realEstateType": "for-rent"
+  },
+  "71": {
+    "title": "Casa en Renta en Las Moras",
+    "price": "$ 28,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "130 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-477ca6e9624e-e5aa-d5438b69-9c71-1fc5",
+    "longitude": "-105.23040991",
+    "latitude": "20.6578484",
+    "realEstateType": "for-rent"
+  },
+  "81": {
+    "title": "Casa en Renta en Bugambilias",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "153 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-ec6a5bafdd91-cb0c-5df6daf2-acc6-4f5a",
+    "longitude": "-103.4455662",
+    "latitude": "20.6122169",
+    "realEstateType": "for-rent"
+  },
+  "91": {
+    "title": "Casa en Renta en Arcos Vallarta",
+    "price": "$ 40,000 MXN",
+    "Recámaras": "8",
+    "Baños": "3",
+    "construidos": "300 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-ead8f3274814-308-6c7d2985-ac96-4531",
+    "longitude": "-103.3858754",
+    "latitude": "20.6734217",
+    "realEstateType": "for-rent"
+  },
+  "101": {
+    "title": "Casa en Renta en Hacienda del Oro",
+    "price": "$ 29,500 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "365 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5d406f1385e1-10027-2708b9eb-98cd-3290",
+    "longitude": "-103.459125",
+    "latitude": "20.551085",
+    "realEstateType": "for-rent"
+  },
+  "111": {
+    "title": "Casa en Renta en Eucalipto Vallarta",
+    "price": "$ 52,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "construidos": "375 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-180e66421281-97ea-9e857cd3-b2ef-3c1c"
+  },
+  "121": {
+    "title": "Casa en Renta en Las Moras",
+    "price": "$ 35,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-45788370c000-3d33-aa7bbb9-9549-4f52",
+    "longitude": "-105.2295757",
+    "latitude": "20.6589533",
+    "realEstateType": "for-rent"
+  },
+  "131": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "USD 600",
+    "Recámara": "1",
+    "Baño": "1",
+    "construidos": "75 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-4619654e4a15-a319-bbf506b6-b8ff-3f1d",
+    "longitude": "-103.236727",
+    "latitude": "20.296905",
+    "realEstateType": "for-rent"
+  },
+  "141": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 45,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "350 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-369cb9065d21-4a95-b8838eda-9482-3ee8"
+  },
+  "151": {
+    "title": "Casa en Renta en Residencial Fluvial Vallarta",
+    "price": "$ 35,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "140 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-90b8899a559-e9df-2b39e925-9b62-4a4d",
+    "longitude": "-105.2280349",
+    "latitude": "20.6516151",
+    "realEstateType": "for-rent"
+  },
+  "161": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 27,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "194 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-8c3d95ec9fe2-8bcd-ea40414a-9bde-3a9a",
+    "longitude": "-103.2848",
+    "latitude": "20.296792",
+    "realEstateType": "for-rent"
+  },
+  "171": {
+    "title": "Casa en Renta en San Antonio Tlayacapan",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "197 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-3d8748f7a0a1-3a7-f97a3b19-9304-3e8f",
+    "longitude": "-103.233933",
+    "latitude": "20.295529",
+    "realEstateType": "for-rent"
+  },
+  "181": {
+    "title": "Casa en Renta en Chapala Haciendas",
+    "price": "$ 27,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "277 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e87106f9110a-ef17-18f08da-8065-7697",
+    "longitude": "-103.193118",
+    "latitude": "20.325575",
+    "realEstateType": "for-rent"
+  },
+  "191": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 26,500 MXN",
+    "Recámaras": "2",
+    "Baño": "1",
+    "construidos": "450 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-a47176a16ee5-5734-b3d86871-9cc7-3afe",
+    "longitude": "-103.288259",
+    "latitude": "20.297491",
+    "realEstateType": "for-rent"
+  },
+  "201": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 28,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7f8e29300303-61b3-b913a3d3-8bb0-3ad6",
+    "longitude": "-103.246726",
+    "latitude": "20.29619",
+    "realEstateType": "for-rent"
+  },
+  "211": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-9b4a9d3d9eb7-55ac-f2c09a16-bb18-3e66",
+    "longitude": "-103.256676",
+    "latitude": "20.296822",
+    "realEstateType": "for-rent"
+  },
+  "221": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 24,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f5438a83f580-85cd-92dccbff-a14c-3fd3",
+    "longitude": "-103.239636",
+    "latitude": "20.292092",
+    "realEstateType": "for-rent"
+  },
+  "231": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 12,500 MXN",
+    "Recámara": "1",
+    "Baño": "1",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-942a5ac94575-32ac-44dfc3c1-83b0-353a",
+    "longitude": "-103.265831",
+    "latitude": "20.302653",
+    "realEstateType": "for-rent"
+  },
+  "241": {
+    "title": "Casa en Renta en Los Colomos",
+    "price": "$ 50,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "420 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-477cb759bc4c-c332-36fcd3c7-838b-4d7b"
+  },
+  "251": {
+    "title": "Casa en Renta en Camino Real de Colima",
+    "price": "$ 18,000 MXN",
+    "Recámaras": "3",
+    "Baños": "4",
+    "construidos": "315 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e11247a5951-7929-cbafe7cb-8ba7-4e53",
+    "longitude": "-103.4547669",
+    "latitude": "20.5538677",
+    "realEstateType": "for-rent"
+  },
+  "261": {
+    "title": "Casa en Renta en Gaviotas",
+    "price": "$ 50,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "construidos": "280 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-159e8a79b95d-5198-67d9174b-99c2-48d5",
+    "longitude": "-105.2212749",
+    "latitude": "20.6360482",
+    "realEstateType": "for-rent"
+  },
+  "271": {
+    "title": "Casa en Renta en De las Juntas Delegación",
+    "price": "Consultar precios",
+    "Recámaras": "3",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-77f70fa767c4-92f5-29526619-9e85-1f54"
+  },
+  "281": {
+    "title": "Casa en Condominio en Renta en Residencial Fluvial Vallarta",
+    "price": "$ 55,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-b5810326792e-645a-9a28ef89-a359-1f64"
+  },
+  "291": {
+    "title": "Casa en Renta en Circunvalación Américas",
+    "price": "$ 58,000 MXN",
+    "Recámaras": "5",
+    "Baños": "4",
+    "construidos": "400 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-730fdc19d3f4-1350-a615c454-ad42-3ab7"
+  },
+  "01": {
+    "title": "Casa en Renta en Ladrón de Guevara",
+    "price": "$ 130,000 MXN",
+    "construidos": "1,000 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5238551c1008-c53e-18f4678-bf96-7bea"
+  },
+  "11": {
+    "title": "Casa en Renta en Santa Anita",
+    "price": "$ 12,500 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "127 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-147bd132ceb2-1aff-6807fe73-9162-4fd5"
+  },
+  "21": {
+    "title": "Casa en Condominio en Renta en De las Juntas Delegación",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "122 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e7691671559a-915f-e843ad01-8230-42bc"
+  },
+  "31": {
+    "title": "Casa en Condominio en Renta en De las Juntas Delegación",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "152 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-70c165db2efc-e92d-d8ae88d6-874f-4d46",
+    "longitude": "-105.244778",
+    "latitude": "20.694751",
+    "realEstateType": "for-rent"
+  },
+  "41": {
+    "title": "Casa en Fraccionamiento en Renta en Parques las Palmas",
+    "price": "$ 21,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "130 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-5b9338152cce-d387-7072f9a2-90c5-4e28",
+    "longitude": "-105.2307614",
+    "latitude": "20.6895909",
+    "realEstateType": "for-rent"
+  },
+  "51": {
+    "title": "Casa en Condominio en Renta en Zapopan Centro",
+    "price": "$ 21,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "construidos": "186 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-37ddb3902687-e07b-865affad-a12f-4913",
+    "longitude": "-103.414298",
+    "latitude": "20.7887597",
+    "realEstateType": "for-rent"
+  },
+  "61": {
+    "title": "Casa en Renta en Hacienda del Oro",
+    "price": "$ 29,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "375 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-fdb85a3dfe39-aca-7d1ff327-9e44-33bc"
+  },
+  "71": {
+    "title": "Casa en Renta en San Agustin",
+    "price": "$ 24,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "construidos": "220 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-eace187aabea-eac4-f07f2200-b3cc-3a6e",
+    "longitude": "-103.4679791",
+    "latitude": "20.5610444",
+    "realEstateType": "for-rent"
+  },
+  "81": {
+    "title": "Casa en Fraccionamiento en Renta en Jardines Vallarta",
+    "price": "$ 39,700 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "construidos": "212 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f6462f6b2595-d1bc-c1901b34-9c6b-4369",
+    "longitude": "-103.4186722",
+    "latitude": "20.6802116",
+    "realEstateType": "for-rent"
+  },
+  "91": {
+    "title": "Casa en Renta en Ajijic Centro",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "2",
+    "Baños": "2",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-a42cf84cafb3-19ba-986777b2-9db7-47e3"
+  },
+  "101": {
+    "title": "Casa en Renta en Virreyes Residencial",
+    "price": "$ 45,000 MXN",
+    "Recámaras": "3",
+    "Baños": "5",
+    "construidos": "345 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-b3b17c3a4362-f05a-18f416c-9b83-79e0",
+    "longitude": "-103.445277",
+    "latitude": "20.702029",
+    "realEstateType": "for-rent"
+  },
+  "111": {
+    "title": "Casa en Renta en Solares",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "236 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-9ec5884b0f3c-f97-26315a9b-9ddf-4b2f"
+  },
+  "121": {
+    "title": "Casa en Renta en Villas Rio",
+    "price": "$ 31,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-585e8ca43773-4c9b-5110e467-b3d3-4b45"
+  },
+  "131": {
+    "title": "Casa en Fraccionamiento en Renta en Residencial Fluvial Vallarta",
+    "price": "$ 31,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-a2833443be8f-865f-b15c49fd-9b73-4e70",
+    "longitude": "-105.2267944",
+    "latitude": "20.6460186",
+    "realEstateType": "for-rent"
+  },
+  "141": {
+    "title": "Casa en Renta en Villas Rio",
+    "price": "$ 31,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-c40158f53858-1c65-7c9f393b-ade7-48b0",
+    "longitude": "-105.2237039",
+    "latitude": "20.6506282",
+    "realEstateType": "for-rent"
+  },
+  "151": {
+    "title": "Casa en Renta en Ciudad Del Sol",
+    "price": "$ 50,000 MXN",
+    "Recámaras": "5",
+    "Baños": "5",
+    "construidos": "567 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-bf73817646bf-bd46-bebeef6c-bb54-4997",
+    "longitude": "-103.4024392",
+    "latitude": "20.6582119",
+    "realEstateType": "for-rent"
+  },
+  "161": {
+    "title": "Casa en Fraccionamiento en Renta en Residencial Fluvial Vallarta",
+    "price": "$ 31,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e8c18315292e-14fb-dc73099a-aa15-4fae"
+  },
+  "171": {
+    "title": "Casa en Fraccionamiento en Renta en Jardines de Vallarta",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-156aab10cb48-5b7c-78b14574-876a-4990"
+  },
+  "181": {
+    "title": "Casa en Fraccionamiento en Renta en Gaviotas",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "4",
+    "Baños": "3",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-a2cfb872992e-1c6-e1018728-adee-4150"
+  },
+  "191": {
+    "title": "Casa en Renta en Ciudad Granja",
+    "price": "$ 80,000 MXN",
+    "Recámaras": "12",
+    "Baños": "12",
+    "construidos": "517 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-3832ac857c5f-d554-930d7264-888b-3a42"
+  },
+  "201": {
+    "title": "Casa en Renta en Las Mojoneras",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "200 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-ef9c51634c81-dfea-56a032cf-ac32-4a79"
+  },
+  "211": {
+    "title": "Casa en Renta en San Agustin",
+    "price": "$ 25,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "180 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-df8cd4421fc7-452-b74fa729-a652-1fcc"
+  },
+  "221": {
+    "title": "Casa en Condominio en Renta en El Palomar",
+    "price": "$ 24,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "360 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f23a19ecf1b7-9826-4a8d259e-8aa5-457b"
+  },
+  "231": {
+    "title": "Casa en Renta en San Agustin",
+    "price": "$ 65,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "643 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e15a285c2fe4-ea6e-412ac869-ac58-1f2c"
+  },
+  "241": {
+    "title": "Casa en Renta en Americana",
+    "price": "$ 20,000 MXN",
+    "Recámaras": "6",
+    "Baño": "1",
+    "construidos": "210 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7bd761f2c6a8-28d3-897bfb89-bf7c-360f",
+    "longitude": "-103.362722",
+    "latitude": "20.668605",
+    "realEstateType": "for-rent"
+  },
+  "251": {
+    "title": "Casa en Condominio en Renta en De las Juntas Delegación",
+    "price": "$ 22,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "152 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-7633f8d3742b-46b4-d7e7dfd3-8c9e-3655"
+  },
+  "261": {
+    "title": "Casa en Renta en Agua Blanca Industrial",
+    "price": "$ 30,000 MXN",
+    "Recámaras": "3",
+    "Baños": "3",
+    "construidos": "320 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-f94639858416-3245-fff54c66-bd03-31e9"
+  },
+  "271": {
+    "title": "Casa en Renta en Residencial La Estancia",
+    "price": "$ 45,000 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "325 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-16088915cdf0-b7a9-18f4935-a7b5-7e2b"
+  },
+  "281": {
+    "title": "Casa en Renta en Virreyes Residencial",
+    "price": "$ 65,000 MXN",
+    "Recámaras": "3",
+    "Baños": "4",
+    "construidos": "359 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-e8dcecc1b227-170a-fa0b0f3e-abee-326d",
+    "longitude": "-103.445077",
+    "latitude": "20.7019",
+    "realEstateType": "for-rent"
+  },
+  "291": {
+    "title": "Casa en Renta en Colegio Del Aire",
+    "price": "$ 18,000 MXN",
+    "Recámaras": "3",
+    "Baños": "2",
+    "construidos": "150 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-4bfe0829faab-2b0b-18f4671-b016-75b0",
+    "longitude": "-103.445871",
+    "latitude": "20.745351",
+    "realEstateType": "for-rent"
+  },
+  "01": {
+    "title": "Casa en Fraccionamiento en Renta en Solares",
+    "price": "$ 31,500 MXN",
+    "Recámaras": "4",
+    "Baños": "4",
+    "construidos": "223 m²",
+    "url": "https://www.lamudi.com.mx/detalle/41032-73-55c47228e25c-25c2-339b3526-aa22-4fff"
+  }
+}
